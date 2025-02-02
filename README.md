@@ -1,7 +1,7 @@
 **This project is about Writing a Script to report the usage of AWS resources in a project**
 
 *Basic understanding*
-Why does any company moves to cloud infrastructure it is because of two primary reasons:
+<small>Why does any company moves to cloud infrastructure it is because of two primary reasons:</small>
 1. Manageability: We need to maintain our own data centers and need to do upgradation of servers and we need dedicated team to maintain them.
 2. Cost: As these resources are pay as you go but the physical infrasturcture is you need to pay for it as it is present in
    data center.
