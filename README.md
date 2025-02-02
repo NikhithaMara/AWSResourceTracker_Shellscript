@@ -26,3 +26,5 @@ So lets develop a shell scripting for tracking the aws resource usage, lets say 
 
 
 
+
+
