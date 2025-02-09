@@ -96,6 +96,7 @@ cd directoryname
 
 #to delete a folder use rm -rf foldername
 
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/f03f184d-06da-4f20-ab79-008437a0df58" />
 
 
 
