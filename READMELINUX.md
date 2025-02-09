@@ -4,7 +4,7 @@ There is always a manual process which is taking more effort and more time, like
 #purpose of shell scripting for Devops Engineer:
 #as a devops enginner we need to manage infrastructure, code and configuration management 
 #but most of organizations uses linux because of security
-# for all this we use shell scripting but eventhough automatic tools are available but we need to use shell scripting 
+#for all this we use shell scripting but eventhough automatic tools are available but we need to use shell scripting 
 #scenario : let us consider a devops engineer who needs to check the node health as most of the employees complaining virtual machines
 #are not working correctly and the team has around 10000 vm's so everytime to check instead of login those 10000 machines manually we can create shell scripts which tracks the node health of all machines, so instead of this we can run
 cron job automatically and which logins into all 10000 vm's and generate an email stating cpu and memory utilization of all nodes.
@@ -61,9 +61,7 @@ so why do we write #!/bin/bash in a shell script so instaed of using bash we can
 so whenever we write shell script bash is the excutable that excutes your shell script so we are notifying linux machine as we will be using bash and there is no much differences in commands but they may vary with syntax
 and bash is the widely used one.
 
-###so whats the difference between bash/sh because they use sh as well when they use bash because there is an linking process
-where the request is forwarded to bash so its same but these days some of the operating system like ubuntu they using dash as
-default so now we cant use sh in place of bash becaiuse now its not linking to bash and script doesn't work as u have dash as default and ur script in bash###
+### so whats the difference between bash/sh because they use sh as well when they use bash because there is an linking process where the request is forwarded to bash so its same but these days some of the operating system like ubuntu they using dash as default so now we cant use sh in place of bash becaiuse now its not linking to bash and script doesn't work as u have dash as default and ur script in bash ###
 
 #so to know the contents of the file instead of opening it through vim i can use cat command to display the contents of the file
 #cat filename.sh
